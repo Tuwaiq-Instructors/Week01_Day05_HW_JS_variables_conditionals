@@ -10,3 +10,9 @@
 * [Variables HW](variables_hw.md)
 
 * [Conditionals HW](conditionals_hw.md)
+
+## Solution:
+
+- [Variables solution](variables_solution.js)
+
+- [Conditionals solution](variables_solution.js)
